@@ -1,3 +1,9 @@
 {
-  "root": "build/"
+  "root": "build/",
+  "routes": {
+    "/farms/*": "index.html",
+    "/mines/*": "index.html",
+    "/farms": "index.html",
+    "/mines": "index.html"
+  }
 }
