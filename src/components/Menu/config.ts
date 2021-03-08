@@ -28,7 +28,7 @@ const config: MenuEntry[] = [
   {
     label: 'Mines',
     icon: 'PoolIcon',
-    href: '/Mines',
+    href: '/mines',
   },
   // {
   //   label: 'Pools',
